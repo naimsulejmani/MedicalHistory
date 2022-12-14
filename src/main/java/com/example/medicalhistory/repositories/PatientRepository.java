@@ -17,3 +17,12 @@ public interface PatientRepository extends JpaRepository<Patient, Long> {
     public List<Patient> findTest(String address);
 
 }
+
+
+
+
+
+
+
+
+
